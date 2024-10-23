@@ -18,7 +18,7 @@ plugins {
 }
 
 group = "dev.isxander"
-version = "1.20.6+1.0"
+version = "1.21.2+1.0"
 
 loom {
     splitEnvironmentSourceSets()
